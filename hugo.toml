@@ -1,4 +1,4 @@
-baseURL = "https://nguyet2139.github.io/my-blog/"
-languageCode = "vi-vn"
-title = "Blog của Huỳnh Nguyệt"
-theme = "gruvbox"
+baseURL = 'https://example.org/'
+languageCode = 'vi-vn'
+title = 'Blog của Huỳnh Nguyệt'
+theme = 'hugo-theme-gruvbox'

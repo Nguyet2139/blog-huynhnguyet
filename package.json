@@ -1,0 +1,15 @@
+{
+  "name": "blogcuanguyet-frontend",
+  "version": "1.0.0",
+  "description": "Frontend dependencies for Hugo theme",
+  "scripts": {
+    "build": "hugo --minify", 
+    "dev": "hugo server", 
+    "css:build": "postcss ./assets/css/main.css -o ./assets/css/bundled.css"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.38",
+    "postcss-cli": "^11.0.0"
+  }
+}

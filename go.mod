@@ -1,4 +1,4 @@
-module github.com/Nguyet2139/my-blog
+module github.com/huynhnguyet/blogcuanguyet
 
 go 1.25.3
 
